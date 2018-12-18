@@ -48,7 +48,6 @@ class App extends Component {
         handleSelect = {this.handleSelect}
         key = {i.id}
         id={i.id}
-        name={i.name}
         image={i.image}
       />
         )}

@@ -51,7 +51,7 @@ function Nav(props) {
           <Grid container>
             <Grid item xs={12} sm={3}>
               <Typography className={classes.game} variant="h5">
-                <p>Clicky Game</p> 
+                <p>Clicky Click Game</p> 
               </Typography>
             </Grid>
             <Grid item xs={12} sm={6}>
